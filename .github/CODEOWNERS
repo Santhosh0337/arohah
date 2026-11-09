@@ -1,0 +1,22 @@
+* @Santhosh0337
+
+/frontend/ @SriramHarigesh
+/backend/app/providers/ @SriramHarigesh
+/backend/app/voice/ @SriramHarigesh
+/backend/app/models_gnani.py @SriramHarigesh
+/backend/app/api/voice.py @SriramHarigesh
+/backend/app/api/explain.py @SriramHarigesh
+/backend/app/api/languages.py @SriramHarigesh
+/backend/data/languages.json @SriramHarigesh
+/backend/requirements/gnani.txt @SriramHarigesh
+/backend/tests/providers/ @SriramHarigesh
+/backend/tests/intents/ @SriramHarigesh
+/backend/seed/audio/s2-* @SriramHarigesh
+/backend/seed/audio/s3-* @SriramHarigesh
+/backend/seed/audio/s4-* @SriramHarigesh
+/backend/seed/audio/s5-* @SriramHarigesh
+/eval/prisma_eval.md @SriramHarigesh
+/DECISIONS_B.md @SriramHarigesh
+/OPEN_QUESTIONS_B.md @SriramHarigesh
+/docs/frontend.md @SriramHarigesh
+/docs/languages.md @SriramHarigesh

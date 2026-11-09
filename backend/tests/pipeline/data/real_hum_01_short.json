@@ -1,0 +1,305 @@
+{
+  "input": {
+    "mode": "hum",
+    "language": null,
+    "mixed_language": false,
+    "audio_file_id": null,
+    "duration_s": 9.86
+  },
+  "lyrics": [],
+  "notes_raw": [
+    {
+      "pitch": 48,
+      "start": 0.1277,
+      "end": 0.7082,
+      "velocity": 74,
+      "confidence": 0.62
+    },
+    {
+      "pitch": 47,
+      "start": 0.7082,
+      "end": 0.7895,
+      "velocity": 66,
+      "confidence": 0.251
+    },
+    {
+      "pitch": 48,
+      "start": 0.7895,
+      "end": 1.3235,
+      "velocity": 76,
+      "confidence": 0.683
+    },
+    {
+      "pitch": 55,
+      "start": 1.3816,
+      "end": 2.6006,
+      "velocity": 106,
+      "confidence": 0.857
+    },
+    {
+      "pitch": 56,
+      "start": 2.7283,
+      "end": 2.8444,
+      "velocity": 83,
+      "confidence": 0.887
+    },
+    {
+      "pitch": 57,
+      "start": 2.8444,
+      "end": 3.3321,
+      "velocity": 90,
+      "confidence": 0.89
+    },
+    {
+      "pitch": 56,
+      "start": 3.3321,
+      "end": 3.4249,
+      "velocity": 79,
+      "confidence": 0.687
+    },
+    {
+      "pitch": 57,
+      "start": 3.4249,
+      "end": 3.9474,
+      "velocity": 94,
+      "confidence": 0.926
+    },
+    {
+      "pitch": 55,
+      "start": 4.1099,
+      "end": 4.6324,
+      "velocity": 77,
+      "confidence": 0.856
+    },
+    {
+      "pitch": 49,
+      "start": 5.3754,
+      "end": 5.4567,
+      "velocity": 64,
+      "confidence": 0.127
+    },
+    {
+      "pitch": 53,
+      "start": 5.5844,
+      "end": 5.8282,
+      "velocity": 75,
+      "confidence": 0.86
+    },
+    {
+      "pitch": 54,
+      "start": 5.8282,
+      "end": 5.9443,
+      "velocity": 74,
+      "confidence": 0.889
+    },
+    {
+      "pitch": 53,
+      "start": 5.9443,
+      "end": 6.5016,
+      "velocity": 72,
+      "confidence": 0.842
+    },
+    {
+      "pitch": 52,
+      "start": 6.699,
+      "end": 7.2214,
+      "velocity": 71,
+      "confidence": 0.745
+    },
+    {
+      "pitch": 51,
+      "start": 7.2214,
+      "end": 7.3027,
+      "velocity": 73,
+      "confidence": 0.628
+    },
+    {
+      "pitch": 52,
+      "start": 7.3027,
+      "end": 7.7439,
+      "velocity": 71,
+      "confidence": 0.749
+    },
+    {
+      "pitch": 49,
+      "start": 7.8832,
+      "end": 7.9644,
+      "velocity": 62,
+      "confidence": 0.383
+    },
+    {
+      "pitch": 50,
+      "start": 7.9644,
+      "end": 8.9513,
+      "velocity": 71,
+      "confidence": 0.735
+    },
+    {
+      "pitch": 47,
+      "start": 9.1022,
+      "end": 9.2648,
+      "velocity": 68,
+      "confidence": 0.538
+    },
+    {
+      "pitch": 48,
+      "start": 9.2648,
+      "end": 9.4737,
+      "velocity": 67,
+      "confidence": 0.759
+    },
+    {
+      "pitch": 49,
+      "start": 9.4737,
+      "end": 9.6015,
+      "velocity": 57,
+      "confidence": 0.37
+    }
+  ],
+  "notes_clean": [
+    {
+      "pitch": 48,
+      "start": 0.0987,
+      "end": 0.6908,
+      "velocity": 74,
+      "confidence": 0.62
+    },
+    {
+      "pitch": 47,
+      "start": 0.6908,
+      "end": 0.7895,
+      "velocity": 66,
+      "confidence": 0.251
+    },
+    {
+      "pitch": 48,
+      "start": 0.7895,
+      "end": 1.2829,
+      "velocity": 76,
+      "confidence": 0.683
+    },
+    {
+      "pitch": 55,
+      "start": 1.3816,
+      "end": 2.5658,
+      "velocity": 106,
+      "confidence": 0.857
+    },
+    {
+      "pitch": 55,
+      "start": 2.7632,
+      "end": 2.8618,
+      "velocity": 83,
+      "confidence": 0.887
+    },
+    {
+      "pitch": 57,
+      "start": 2.8618,
+      "end": 3.3553,
+      "velocity": 90,
+      "confidence": 0.89
+    },
+    {
+      "pitch": 55,
+      "start": 3.3553,
+      "end": 3.4539,
+      "velocity": 79,
+      "confidence": 0.687
+    },
+    {
+      "pitch": 57,
+      "start": 3.4539,
+      "end": 3.9474,
+      "velocity": 94,
+      "confidence": 0.926
+    },
+    {
+      "pitch": 55,
+      "start": 4.1447,
+      "end": 4.6382,
+      "velocity": 77,
+      "confidence": 0.856
+    },
+    {
+      "pitch": 48,
+      "start": 5.3289,
+      "end": 5.4276,
+      "velocity": 64,
+      "confidence": 0.127
+    },
+    {
+      "pitch": 53,
+      "start": 5.625,
+      "end": 6.5132,
+      "velocity": 75,
+      "confidence": 0.851
+    },
+    {
+      "pitch": 52,
+      "start": 6.7105,
+      "end": 7.2039,
+      "velocity": 71,
+      "confidence": 0.745
+    },
+    {
+      "pitch": 50,
+      "start": 7.2039,
+      "end": 7.3026,
+      "velocity": 73,
+      "confidence": 0.628
+    },
+    {
+      "pitch": 52,
+      "start": 7.3026,
+      "end": 7.6974,
+      "velocity": 71,
+      "confidence": 0.749
+    },
+    {
+      "pitch": 48,
+      "start": 7.8947,
+      "end": 7.9934,
+      "velocity": 62,
+      "confidence": 0.383
+    },
+    {
+      "pitch": 50,
+      "start": 7.9934,
+      "end": 8.9803,
+      "velocity": 71,
+      "confidence": 0.735
+    },
+    {
+      "pitch": 47,
+      "start": 9.0789,
+      "end": 9.2763,
+      "velocity": 68,
+      "confidence": 0.538
+    },
+    {
+      "pitch": 48,
+      "start": 9.2763,
+      "end": 9.5724,
+      "velocity": 67,
+      "confidence": 0.629
+    }
+  ],
+  "analysis": {
+    "bpm": 152.0,
+    "bpm_source": "auto",
+    "key": {
+      "tonic": "C",
+      "mode": "major",
+      "confidence": 0.894
+    },
+    "scale_matches": [],
+    "sa_override": null
+  },
+  "warnings": [
+    {
+      "code": "bpm_low_confidence",
+      "message": "Tempo estimates disagree: beat tracking found 152 BPM, note timing suggests 96 BPM. The tempo may be half or double time; set BPM by hand if it sounds wrong.",
+      "stage": "key_bpm"
+    }
+  ]
+}

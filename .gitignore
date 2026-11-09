@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Arohah local recordings and generated outputs
+/backend/samples/*.mp4
+/backend/out/
+/backend/a1-real-audio-results.zip
+
+# Local backup files
+*.bak-*

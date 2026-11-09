@@ -1,0 +1,10 @@
+# Person A (engine). Lower bounds only for now; pin after the first green install on both machines.
+numpy>=1.26
+scipy>=1.11
+librosa>=0.10.2
+pretty_midi>=0.2.10
+pytest>=8.0
+pytest-asyncio>=0.24
+
+pydantic>=2.7
+pymongo>=4.13
