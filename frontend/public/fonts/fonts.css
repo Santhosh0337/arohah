@@ -1,0 +1,60 @@
+/*
+ * Self-hosted Noto Sans (bible 16.5). Loaded by index.html from /fonts/fonts.css.
+ *
+ * The .woff2 files are NOT in the repository yet. Run `npm run fonts` from
+ * frontend/ (needs internet once) to download them into this folder, or follow
+ * public/fonts/README.md. Until then each face falls back to a font installed
+ * on the machine (local(...)), and then to the system stack in index.css, so
+ * the app still works; Indic text just may not use Noto glyphs.
+ *
+ * Each family covers one script, so the browser picks per character even when
+ * an element has no lang attribute.
+ */
+
+/* Latin */
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400 500;
+  font-display: swap;
+  src: local("Noto Sans"), local("NotoSans-Regular"), url("NotoSans-Latin-400.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600 700;
+  font-display: swap;
+  src: local("Noto Sans SemiBold"), local("NotoSans-SemiBold"), url("NotoSans-Latin-600.woff2") format("woff2");
+}
+
+/* Tamil */
+@font-face {
+  font-family: "Noto Sans Tamil";
+  font-style: normal;
+  font-weight: 400 500;
+  font-display: swap;
+  src: local("Noto Sans Tamil"), local("NotoSansTamil-Regular"), url("NotoSansTamil-400.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Noto Sans Tamil";
+  font-style: normal;
+  font-weight: 600 700;
+  font-display: swap;
+  src: local("Noto Sans Tamil SemiBold"), local("NotoSansTamil-SemiBold"), url("NotoSansTamil-600.woff2") format("woff2");
+}
+
+/* Devanagari (Hindi, and Marathi later) */
+@font-face {
+  font-family: "Noto Sans Devanagari";
+  font-style: normal;
+  font-weight: 400 500;
+  font-display: swap;
+  src: local("Noto Sans Devanagari"), local("NotoSansDevanagari-Regular"), url("NotoSansDevanagari-400.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Noto Sans Devanagari";
+  font-style: normal;
+  font-weight: 600 700;
+  font-display: swap;
+  src: local("Noto Sans Devanagari SemiBold"), local("NotoSansDevanagari-SemiBold"), url("NotoSansDevanagari-600.woff2") format("woff2");
+}
