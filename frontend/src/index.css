@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ground: #edeff1;
+  --color-surface: #fbfbfa;
+  --color-ink: #18212b;
+  --color-muted: #566170;
+  --color-line: #c9d0d7;
+  --color-accent: #0e6b6b;
+  --color-mock: #8a5200;
+  --color-mock-bg: #f8ead2;
+  --font-sans: "Noto Sans", "Noto Sans Tamil", "Noto Sans Devanagari", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+body {
+  margin: 0;
+  background: var(--color-ground);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  line-height: 1.5;
+}
+
+/* Indic scripts need extra line height for stacked marks (bible 16.5). */
+[lang]:not([lang="en"]) {
+  line-height: 1.7;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}

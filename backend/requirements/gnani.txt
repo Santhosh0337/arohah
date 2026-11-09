@@ -1,0 +1,7 @@
+# Person B's optional Python dependencies for Gnani integration and related tests.
+# Live adapter dependencies (an HTTP client, for example) are added here when
+# the Gnani API details are confirmed.
+#
+# Test-only: fastapi's TestClient needs httpx. Without it, the HTTP-level
+# language test is skipped (the handler-level tests still run).
+httpx>=0.27
